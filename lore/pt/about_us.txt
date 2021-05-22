@@ -1,0 +1,41 @@
+Mafia Bloods e o Dev
+
+<h6>O Projeto - Mafia Bloods</h6>
+<p>
+    É um típico jogo de browser da velha escola. Um clicker com intenções de se tornar massivo Mas por agora apenas um simples Role Playing Game como muitos outros.
+    E aqui fazes role-play de um Mafioso. <br>
+    Dedicação é a chave para alcançar os teus objetivos dentro deste mundo e para isso tens de te dedicar um pouco à tua conta.
+</p>
+
+<p>
+    Este projeto está a ser desenvolvido com uma política de <i>open road-map</i> e por isso todas as sugestões são tidas em consideração na altura de criar novas funcionalidades ou ajustar as existentes.
+    Esta página vai constantemente ser atualizada para fazer face ao progresso da evolução do jogo.
+</p>
+
+<h6>A Mecânica de Jogo - Jogabilidade</h6>
+<p>
+    ---
+</p>
+
+
+<h6>Desenvolvimento e Road-Map</h6>
+<p>
+    Eu sou apenas um nerd, os meus amigos chamam-me de Alphabetus ou Alpha e eu apenas gosto de programar. <br>
+    Rápidamente cheguei à conculusão que para sentir a verdadeira paixão pelo jogo eu teria de fazer um, e por isso comecei este projeto. <br>
+    Este projeto aponta à <i>release</i> de um protótipo jogável, e as tecnologias por detrás são uma mistura entre Ruby on Rails, Node-js, JavaScript e um conjunto de livrarias standard... Eu não ficaria surpreso se encontrares também um pouco de PHP.. <br>
+    Se gostas de programar, ou de sugerir, entra em contacto diretamente comigo no Discord e vamos falar sobre o jogo. <br>
+    Todas as sugestões são tidas em consideração e toda a ajuda é profundamente agradecida.
+</p>
+
+<p>
+    Este projeto demorará anos a concluir completamente. <br>
+    Até lá aproveitem-no tal como é, com jogabilidade simples e novos updates constantes.
+</p>
+
+<p>
+    Se queres ajudar a suportar o projeto, é desta forma que me podes pagar uma cerveja: <br>
+    PayPal: <a href="https://paypal.me/alphabetus" target="_blank">https://paypal.me/alphabetus</a> <br>
+    Ethereum: <code>0x993E6C31804Fc16750E133267269D467C3E64531</code> <br>
+    Litecoin: <code>LdbxMY8Czv6FsRYrB68cE1x5efcdudwcTT</code> <br>
+    Dogecoin: <code>DJWqLfSsrAGeZDKsizv7pEArUF3KaxQo7Z</code>
+</p>

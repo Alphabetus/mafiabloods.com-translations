@@ -1,0 +1,11 @@
+Obrigado pela tua visita!
+
+<p>
+    Ainda não estamos prontos para ti... mas falta pouco!<br>
+    A nossa equipa está a trabalhar duro para te trazer uma espetacular experiência de jogo. <br>
+    Precisamos de um pouqinho mais de tempo para te trazer algo que possas testar. <br>
+    Por favor volta mais tarde e verifica as novidades por ti mesmo... Estamos a contar contigo. <br>
+    Adiciona o nosso site aos favoritos e entra nesta comunidade desde o início para ficares a par de todas as novidades.
+    <br><br>
+    Entra no nosso <a href="https://discord.gg/3TNNdeDjHA" target="_blank">Discord</a> e vem fazer parte deste grupo!
+</p>

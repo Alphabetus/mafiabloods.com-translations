@@ -1,0 +1,45 @@
+Mafia Bloods & The Dev
+
+
+<h6>The Project - Mafia Bloods</h6>
+<p>
+    It is the typical old-school browser strategy clicker. Intended to be a Massively Multiplayer Online Role Playing Game, for now we stick with the
+    Online Role Playing Game. And In here you role-play a Mafia character. <br>
+    Dedication is the key to achieve the goals within this universe and for that you need to put some effort on your account.
+</p>
+
+<p>
+    The project is being developed with an open road-map policy and every suggestion can be implemented if it improves the community or the gameplay.
+    This page will be updated along with the new mechanics that are implemented with the new patches.
+</p>
+
+<h6>The Mechanics - Gameplay</h6>
+<p>
+    ---
+</p>
+
+
+<h6>A Developer & His Roadmap</h6>
+<p>
+    I am just a nerd, my friends call me Alphabetus or Alpha and I do like to code. <br>
+    I quickly realized that if i wanted to feel the passion for a game I had to do it myself, so I started. <br>
+    This project aims to sustain a playable <i>MVP</i>, and the technologies behind it are a mix between Ruby on Rails, Node-js, JavaScript and a bunch of standard libraries... I would not be surprised if you find some PHP as well..<br>
+</p>
+
+<p>
+    If you do fancy the code, or the suggestion box, feel free to reach me directly and lets chat about the game.<br>
+    Every suggestion is considered, and if every help is warmly appreciated.
+</p>
+
+<p>
+    This project will take years to be fully finished. <br>
+    Until then, enjoy our simple gameplay and the constant release of new features.
+</p>
+
+<p>
+    If you want to support it somehow here is how you can buy me a beer: <br>
+    PayPal: <a href="https://paypal.me/alphabetus" target="_blank">https://paypal.me/alphabetus</a> <br>
+    Ethereum: <code>0x993E6C31804Fc16750E133267269D467C3E64531</code> <br>
+    Litecoin: <code>LdbxMY8Czv6FsRYrB68cE1x5efcdudwcTT</code> <br>
+    Dogecoin: <code>DJWqLfSsrAGeZDKsizv7pEArUF3KaxQo7Z</code>
+</p>

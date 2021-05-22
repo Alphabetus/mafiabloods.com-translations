@@ -1,0 +1,341 @@
+en:
+
+  closed_disclaimer: "Almost there, but not yet done!<br>We are still not accepting new users.<br>Navigate through the webstite to get to know more about the game or contact the dev to obtain tester access.<br>Thanks!"
+
+  app_title: "Mafia Bloods"
+  server_time: "Server Time"
+
+  home_page:
+    join_button: "Join Now"
+
+  offline_nav:
+    about_us: "About Us"
+    changelog: "What's New"
+    home_page: "Start"
+    join: "Login / Register"
+    discord: "Discord"
+    slogan: "the crime <i class='las la-star'></i> the vice"
+
+  game:
+    main_view:
+      title: "Headquarters"
+      free_money: "Collect Money"
+      disable_with_free_money: "Collecting"
+      free_money_again: "You can collect money again in:"
+    create_character:
+      title: "Create your character"
+      form:
+        labels:
+          name: "Name"
+          sex: "Select your Gender"
+          age: "Age"
+        placeholders:
+          name: "Pick a name for your character"
+          sex: "You selected: "
+        submit: "Create Character"
+        confirm: "Are you ready?"
+    character_info:
+      titles:
+        age: "Years"
+        level: "Level"
+        net_worth: "Net Worth"
+        pocket_money: "Money"
+      tooltips:
+        pocket_money: "Pocket Money. Tap here to go to local bank."
+    continent_view:
+      tooltips:
+        view_continental_map: "See continental map"
+        population: "Non player characters population"
+        citizens: "Born human players"
+        job_opportunities: "Number of continental job opportunities"
+        crime_opportunities: "Number of continental crime opportunities"
+        currency: "Currency used to trade, buy or sell. Your rewards will also be paid in this currency."
+        visitors: "Number of human players visiting this continent."
+        continent: "Geographical location"
+      titles:
+        population: "Population"
+        citizens: "Citizens"
+        continent: "Region"
+        job_opportunities: "Job Opportunities"
+        crime_opportunities: "Crime Opportunities"
+        currency: "Regional Currency"
+        visitors: "Visitors"
+        cities: "Cities"
+    travel_view:
+      titles:
+        origin: "Journey Start"
+        destination: "Journey Destination"
+        distance: "Distance"
+        cost: "Cost"
+    city_view:
+      titles:
+        places: "Places in %{city_name}"
+        bank: "Local Bank"
+        bank_city: "Bank of %{city_name}"
+    bank_view:
+      titles:
+        bank_services: "Bank Services"
+        your_money: "your money"
+        money_exchange: "Money Exchange"
+        buy_money: "convert money"
+        exchange_money_into_currency: "Exchange money to %{currency}"
+        available_funds: "available funds"
+        current_rate: "Current Rate from USD to %{currency}"
+        current_exchange_fee: "Exchange Fee"
+        cambio_prices: "All Exchange Rates"
+        from_usd: "all from usd"
+        to_usd: "all to usd"
+        exchange_now: "Buy %{currency} Now"
+        total_to_get: "to convert"
+        total_taxes: "taxes"
+        total_to_get_netto: "total net"
+        confirm_exchange: "confirm trade"
+        no_foreign_currency: "You do not have any foreign currency."
+        go_back: "Go Back"
+        place_order: "Place Order"
+        confirm_place_order: "After you confirm this action there is no way back.\nYou will pay and get your funds immediately.\nAre you sure you want to continue?"
+        place_order_disable: "Placing Order..."
+        convert_min_disclaimer: "You need to exchange a bigger amount"
+        flash_title: "Attention"
+        cant_cambio_on_bank: "You can't exchange more money on this city for now."
+        next_cambio: "You will be able to convert money on this bank again in:"
+        back_to_bank: "Back to Bank"
+      tooltips:
+        current_rate: "For every 1.00 %{currency_1} exchanged you get %{rate} %{currency_2}."
+        current_exchange_fee: "From the total amount to be converted, you will pay the corresponding percentage to the bank as service fees.<br><br><span class='font-italic'>If you convert 1 USD, you will pay USD$0.1375 fee.</span>"
+        min_exchange_value: "You need to buy at least %{min}"
+
+  sidebar_game:
+    titles:
+      my_account: "My Account"
+      world: "World"
+      city: "City"
+      settings: "Settings"
+      communication: "Communication"
+    links:
+      see_map: "World Map"
+      regions: "Regional View"
+      logout: "Logout"
+      discord: "Discord"
+      bank: "Local Bank"
+      city: "City View"
+    tooltips:
+      collapse_all: "Click here to collapse all menus."
+      expand_all: "Click here to expand all menus."
+
+  register_page:
+    form_title: "Register a new account"
+    form:
+      errors:
+        title: "There was a problem creating your account."
+      done: "Your account was created. Check your email."
+      tooltips:
+        username: "Your username is publicly available to other players.<br>It must contain between 4 and 16 alphanumerical characters."
+        email: "Your email will remain private. Nobody can see it.<br>You will need to validate your email to be able to play."
+        password: "Your password will be strongly encrypted.<br>It needs to contain between 6 and 64 characters."
+        password_confirm: "Please enter your password again to make sure there are no mistakes."
+        tos: "You are not allowed to play this game if you do not agree with the terms and conditions."
+        newsletter: "Subscribe our newsletter to receive emails with every game update.<br>You can cancel this subscription at any time."
+      placeholders:
+        username: "Pick your display name"
+        email: "Insert your email"
+        password: "Insert your password"
+        confirm_password: "Confirm your password"
+      labels:
+        username: "Display name"
+        email: "Email"
+        password: "Password"
+        confirm_password: "Confirm password"
+      button:
+        register: "Register Account"
+        modal_button: "<i class='las la-plus mr-2'></i>Create Account"
+      disclaimer:
+        tos_signup: "You must accept the <a href='%{tos_url}' class='text-info' target='_blank'>Terms and Conditions</a> to join the game."
+    loading: "Creating your account..."
+
+  login_page:
+    form_title: "Enter your account"
+    member_area: "Member Area"
+    form:
+      placeholders:
+        email: "enter your email"
+        password: "enter your password"
+      labels:
+        email: "email"
+        password: "password"
+        tos: "Terms and conditions"
+        newsletter: "Subscribe our newsletter"
+        tos_accept: "Accept"
+        tos_reject: "Reject"
+        tos_link: "(read here!)"
+        newsletter_in: "Yes"
+        newsletter_out: "No"
+      button:
+        login: "<i class='las la-sign-in-alt mr-2'></i>Login"
+    alerts:
+      login_done: "You are now connected."
+      login_failed: "Login credentials are incorrect."
+
+  alerts:
+    dismiss: "<i class='las la-times-circle mr-2'></i>Dismiss"
+    error:
+      title: "Attention!"
+      no_access: "You need to be logged into your account to access this page."
+      no_admin_access: "The page you are looking for can only be accessed by gods."
+      email_validation_not_found: "The account you want to activate either does not exist or it is active already.<br>Try to login or register a new account."
+      map_not_found: "This map could not be loaded."
+      email_needs_to_be_validated: "Your account is not active yet.<br>Please check your email for instructions how to activate it."
+      city_not_found: "We could not find that city."
+      cant_fly_yet: "You are not yet ready to travel. Please wait a bit more."
+    ok:
+      title: "Completed!"
+      logout: "You are now disconnected."
+      login: "You are now connected."
+      email_validated: "Your account is active, you can now enter the game.<br>Welcome!"
+      character_created: "Your character is now alive.<br>Good luck!"
+      rip_done: "Rest in Peace. You will be forever remebered in the streets."
+      traveled_welcome: "Welcome to %{city_name}!"
+    micro:
+      transaction: "Transaction"
+      payment_done: "You paid %{value}"
+      you_received: "You received %{value}"
+    exchange:
+      done: "Your transaction is now complete"
+
+  footer:
+    powered_by: "powered by <a href='%{link}' class='clear-link text-secondary' target='_blank' title='%{name}'>%{name}</a>"
+
+  emails:
+    registration:
+      salutation: "Welcome %{username}, this world is yours!"
+      title_email: "Activate your account - Mafia Bloods | MMORPG"
+      title_link: "Activate your Mafia Bloods Account"
+      email_validation_disclaimer: "To validate your email and activate your account, please click on the link below."
+
+  models:
+    user:
+      validation_errors:
+        uniqueness_username: "- The username already exists."
+        uniqueness_email: "- The email already exists."
+        length_password: "- Your password length is invalid."
+        length_username: "- Your username length is invalid."
+        length_email: "- Your email is invalid."
+        username_format: "- The format is invalid."
+        character_name_format: "- The format is invalid"
+        character_name_length: "- The length of your character's name is invalid"
+    character:
+      validation_errors:
+        uniqueness_character_name: "There is already someone playing with that name."
+
+  map:
+    continents:
+      EU: "Europe"
+      AS: "Asia"
+      AF: "Africa"
+      OC: "Oceania"
+      NA: "North America"
+      SA: "South America"
+      eu: "Europe"
+      as: "Asia"
+      af: "Africa"
+      oc: "Oceania"
+      na: "North America"
+      sa: "South America"
+    nationalities:
+      male:
+        eu: "European"
+        as: "Asian"
+        af: "African"
+        oc: "Oceanic"
+        na: "North-American"
+        sa: "South-American"
+      female:
+        eu: "European"
+        as: "Asian"
+        af: "African"
+        oc: "Oceanic"
+        na: "North-American"
+        sa: "South-American"
+    go_back: "World Map"
+    go_back_to_continent: "Continental View"
+    home: "Origin"
+
+  sex_names:
+    male: "Male"
+    female: "Female"
+
+  cities:
+    porto: "Porto"
+    istanbul: "Istanbul"
+    moscow: "Moscow"
+    vladivostok: "Vladivostok"
+    london: "London"
+    barcelona: "Barcelona"
+    sicilia: "Sicilia"
+    saint_petersburg: "Saint Petersburg"
+    berlin: "Berlin"
+    yerevan: "Yerevan"
+    otrozhny: "Otrozhny"
+    dudinka: "Dudinka"
+    shanghai: "Shanghai"
+    mumbai: "Mumbai"
+    beijing: "Beijing"
+    karachi: "Karachi"
+    hong_kong: "Hong-Kong"
+    riyadh: "Riyadh"
+    seoul: "Seoul"
+    tokyo: "Tokyo"
+    ulan_bator: "Ulan Bator"
+    singapura: "Singapura"
+    luanda: "Luanda"
+    maputo: "Maputo"
+    cairo: "Cairo"
+    abidjan: "Abidjan"
+    casablanca: "Casablanca"
+    mogadishu: "Mogadishu"
+    cape_town: "Cape Town"
+    dakar: "Dakar"
+    new_york: "New York"
+    los_angeles: "Los Angeles"
+    toronto: "Toronto"
+    chicago: "Chicago"
+    varadero: "Varadero"
+    juarez: "Ciudad Juarez"
+    tijuana: "Tijuana"
+    nuuk: "Nuuk"
+    anchorage: "Anchorage"
+    rio_de_janeiro: "Rio de Janeiro"
+    recife: "Recife"
+    buenos_aires: "Buenos Aires"
+    bogota: "Bogota"
+    punta_arenas: "Punta Arenas"
+    medellin: "Medellín"
+    sydney: "Sydney"
+    perth: "Perth"
+    port_moresby: "Port Moresby"
+    mexico_city: "Mexico City"
+    la_paz: "La Paz"
+    mauritius: "Mauritius"
+    abuja: "Abuja"
+
+  currencies:
+    YEN: "Japanese Yen"
+    EUR: "Euro"
+    ZAR: "South African Rand"
+    AUD: "Australian Dollar"
+    USD: "American Dollar"
+    BRL: "Brazilian Real"
+
+  you_cant_change_that: "You can't change that"
+  you_cant_change_that_tooltip: "This field can not be edited."
+  disable_with_global: 'Please wait...'
+  character_is_alive: "That character is playing already, please pick another name."
+  you_are_in_this_city: "You are in this city"
+  travel_to: "Travel to %{city_name}"
+  cant_pay_value_long: "You don't have %{value_with_currency} on your pocket."
+  cant_pay_value: "You can't afford this"
+  cant_pay_value_short: "No Money"
+  dismiss: "Cancel"
+  confirm_travel: "Are you sure you want to travel to %{city_name}?\nThat will cost you %{cost}.\nThis action can not be undone."
+  needs_to_wait_for_travel: "You still need to wait sometime to travel again. Try again later..."
+  updated_at: "Updated at: %{date}"

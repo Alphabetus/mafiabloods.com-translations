@@ -1,0 +1,11 @@
+Merci de votre visite !
+
+<p>
+    Nous ne sommes pas encore prêts pour vous... il nous faut seulement un peu plus de temps ! <br>
+    Notre équipe travaille dur pour créer une merveilleuse expérience de jeu. <br>
+    Nous avons besoin d'un peu plus de temps pour vous apporter quelque chose de cool à tester. <br>
+    Revenez plus tard et rendez-nous une autre visite, nous comptons sur vous. <br>
+    <b>Bookmarkez notre site</b> et rejoignez cette communauté dès le début pour être au courant de toutes les mises à jour.
+    <br><br>
+    Rejoignez notre <a href="https://discord.gg/3TNNdeDjHA" target="_blank">Discord</a> et faites partie de ce groupe !
+</p>

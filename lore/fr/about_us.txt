@@ -1,0 +1,47 @@
+Mafia Bloods & The Dev
+
+
+<h6>Le Projet - Sangs de mafia</h6>
+<p>
+    C'est le clicker de stratégie par navigateur de la vieille école. Destiné à être un jeu de rôle en ligne massivement multijoueur, pour l'instant nous nous en tenons à l'appellation.
+    Jeu de rôle en ligne. Et ici, vous jouez le rôle d'un personnage de la mafia. <br>
+    Le dévouement est la clé pour atteindre les objectifs au sein de cet univers et pour cela vous devez mettre des efforts sur votre compte.
+</p>
+
+<p>
+    Le projet est développé avec une politique de feuille de route ouverte et chaque suggestion peut être mise en œuvre si elle améliore la communauté ou le gameplay.
+    Cette page sera mise à jour en même temps que les nouvelles mécaniques qui sont implémentées avec les nouveaux patchs.
+</p>
+
+<h6>Les mécaniques - Gameplay</h6>
+<p>
+    ---
+</p>
+
+
+<h6>Un développeur et sa feuille de route</h6>
+<p>
+    Je suis juste un nerd, mes amis m'appellent Alphabetus ou Alpha et j'aime effectivement coder. <br>
+    J'ai rapidement compris que si je voulais ressentir la passion d'un jeu, je devais le faire moi-même, alors je me suis lancé. <br>
+    Ce projet vise à soutenir un <i>MVP</i> jouable, et les technologies derrière sont un mélange entre Ruby on Rails, Node-js, JavaScript et un tas de bibliothèques standard... Je ne serais pas surpris si vous trouvez un peu de PHP également...<br>
+</p>
+
+<p>
+    Si vous avez envie du code, ou de la boîte à idées, n'hésitez pas à me joindre directement et discutons du jeu.<br><br>
+    Chaque suggestion est considérée, et si chaque aide est chaleureusement appréciée.
+</p>
+
+<p>
+    Ce projet prendra des années pour être entièrement terminé. <br>
+    D'ici là, profitez de notre gameplay simple et de la sortie constante de nouvelles fonctionnalités.
+</p>
+
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
+<p>
+    Si vous voulez le soutenir d'une manière ou d'une autre, voici comment vous pouvez me payer une bière: <br>
+    PayPal: <a href="https://paypal.me/alphabetus" target="_blank">https://paypal.me/alphabetus</a> <br>
+    Ethereum: <code>0x993E6C31804Fc16750E133267269D467C3E64531</code> <br>
+    Litecoin: <code>LdbxMY8Czv6FsRYrB68cE1x5efcdudwcTT</code> <br>
+    Dogecoin: <code>DJWqLfSsrAGeZDKsizv7pEArUF3KaxQo7Z</code>
+</p>
